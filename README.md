@@ -16,3 +16,6 @@ A simple Java-based implementation of the classic Tic Tac Toe game, where a play
 
 ## Gameplay Controls
 - The positions on the board are numbered from 1 to 9 as shown below:
+1 | 2 | 3
+4 | 5 | 6
+7 | 8 | 9
