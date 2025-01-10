@@ -33,11 +33,11 @@ A simple Java-based implementation of the classic Tic Tac Toe game, where a play
 ```
 
 ## Example Output
- | | 
--+-+-
- | | 
--+-+-
- | | 
+ | | \n
+-+-+- \n
+ | | \n
+-+-+-\n
+ | | \n
 Pick your choice between 1 to 9
 1
 X| | 
