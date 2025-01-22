@@ -21,9 +21,6 @@ A simple Java-based implementation of the classic Tic Tac Toe game, where a play
  7 | 8 | 9
 - During the player's turn, input the number corresponding to the desired position.
 
-## Prerequisites
-- Java Development Kit (JDK) 8 or higher installed on your system.
-
 ## How to Run
 1. Save the code in a file named `TicTacToe.java`.
 2. Open a terminal and navigate to the directory where the file is located.
